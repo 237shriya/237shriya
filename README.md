@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHRIYA
-  - 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on projects( particularly using python)
+  -
+- 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me through my mail: sambyalshriya8@gmial.com 
 
 <!---
